@@ -1,0 +1,7 @@
+Car_Name,Brand,Battery_Capacity(kWh),Range(km),Top_Speed(km/h),Charging_Time(hr),Price(USD),Efficiency(Wh/km)
+Tesla Model 3,Tesla,82.0,491,225,6.5,55000,167
+Nissan Leaf,Nissan,40.0,270,144,8.0,31000,148
+TATA Nexon EV,Tata,30.2,312,120,9.5,20000,168
+Hyundai Kona EV,Hyundai,64.0,452,167,7.5,38000,156
+MG ZS EV,MG Motors,50.3,320,140,8.2,27000,157
+Audi e-tron,Audi,95.0,436,200,5.5,75000,218

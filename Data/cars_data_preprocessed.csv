@@ -1,0 +1,7 @@
+Car_Name,Brand_Tesla,Brand_Nissan,Brand_Tata,Brand_Hyundai,Brand_MG,Brand_Audi,Battery_Capacity,Range,Top_Speed,Charging_Time,Price,Efficiency
+Tesla Model 3,1,0,0,0,0,0,0.86,1.0,1.0,0.23,0.79,0.54
+Nissan Leaf,0,1,0,0,0,0,0.42,0.55,0.53,0.31,0.33,0.46
+TATA Nexon EV,0,0,1,0,0,0,0.0,0.63,0.4,0.0,0.0,0.49
+Hyundai Kona EV,0,0,0,1,0,0,0.73,0.87,0.65,0.27,0.44,0.47
+MG ZS EV,0,0,0,0,1,0,0.48,0.66,0.47,0.3,0.16,0.48
+Audi e-tron,0,0,0,0,0,1,1.0,0.89,0.89,0.38,1.0,0.69
